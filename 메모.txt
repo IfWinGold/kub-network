@@ -1,0 +1,2 @@
+1. authAPI deployment 분리 및 서비스 적용
+2. service의 자동할당 환경 변수를 사용하는걸로 변경
